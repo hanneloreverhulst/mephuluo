@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shodaighuj.vaporos.net/sitemap.xml
